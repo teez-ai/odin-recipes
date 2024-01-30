@@ -1,2 +1,4 @@
 # odin-recipes
-List of different recipes using HTML
+First project submission for The Odin Project. 
+List of different recipes using plain HTML.
+
